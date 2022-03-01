@@ -1,0 +1,26 @@
+segment_sources:
+  P1F34A6E2:
+    type: origin_type
+    relation: translation
+    language: en
+  PBCB41A36:
+    type: origin_type
+    relation: translation
+    language: de
+  PCF7625F5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4e115c6d2f9d43e7855df7b3f71411a1:
+    P1F34A6E2: 78a5e3f5a27d4db8b5873dcc55cca947
+    PBCB41A36: 25b12571f5d348d1bd3f140bf124ea45
+    PCF7625F5: f4cc17d43e8a4228be0e1657fa1e55a1
+  277bc2448f234f8185ed58db7969ba05:
+    P1F34A6E2: ad6ae487c2764d4bba93b6493c994376
+    PBCB41A36: 8c04b265fefc4da9a24e7c0a4d3fd531
+    PCF7625F5: 8d0e3d620d9f4f38b36d25c416d2e5c0
+  752dc07a22b7420aaf54354ba376158d:
+    P1F34A6E2: 313315b61db540b7b6bbbc68715c7b11
+    PBCB41A36: eed939a2324f4e1584fc6c8615149bba
+    PCF7625F5: e342ebb601c6458dbc8ab1841bd32f98
